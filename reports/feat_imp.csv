@@ -2,8 +2,8 @@ Feature,Effect
 num__EstimatedSalary > 0.80,0.02
 num__Tenure <= -0.70,0.01
 -1.04 < num__IsActiveMember <= 0.96,0.00
-num__Balance <= -0.96,0.00
 -1.52 < num__HasCrCard <= 0.66,0.00
+num__Balance <= -0.96,-0.00
 -0.02 < num__CreditScore <= 0.65,-0.01
 -0.94 < num__NumOfProducts <= 0.83,-0.04
--0.63 < num__Age <= -0.16,-0.07
+-0.63 < num__Age <= -0.16,-0.08
