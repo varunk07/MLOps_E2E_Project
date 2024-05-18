@@ -10,7 +10,7 @@ alibi-detect==0.11.4
 aliyun-python-sdk-core==2.15.1
 aliyun-python-sdk-kms==2.16.2
 amqp==5.2.0
-antlr4-python3-runtime==4.9.3
+antlr4-python3-runtime
 anyio==4.3.0
 appdirs==1.4.4
 applicationinsights==0.11.10
